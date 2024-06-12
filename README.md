@@ -2,6 +2,8 @@
 
 Proud Carribean-Canadian Fullstack and Software Developer. <br>
 
+![2019 Google HQ Field Trip](googleHqTrip.png)
+
 ## Skills
 
 **Languages**
