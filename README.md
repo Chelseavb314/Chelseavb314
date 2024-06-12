@@ -2,7 +2,11 @@
 
 Proud Carribean-Canadian Fullstack and Software Developer. <br>
 
-![2019 Google HQ Field Trip](googleHqTrip.png)
+![coding-nyc](https://github.com/Chelseavb314/Chelseavb314/assets/55150598/7b97aabc-3d26-440b-b0ee-e4063469b84d)
+
+[Pictured: Chelsea Bahsler coding in a Boston Tech Workshop (2019).] <br>
+
+---
 
 ## Skills
 
@@ -15,6 +19,7 @@ Proud Carribean-Canadian Fullstack and Software Developer. <br>
 **Databases**
 
 * Microsoft SQL Server, PostgreSQL, MySQL, SQLite
+
 
 **Technologies**
 
