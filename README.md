@@ -1,6 +1,5 @@
 ### Welcome Here!
-
-Proud Carribean-Canadian Fullstack and Software Developer. <br>
+I'm **Chelsea Bahsler**, a proud Carribean-Canadian Fullstack and Software Developer. <br>
 
 ## Skills
 
@@ -13,6 +12,7 @@ Proud Carribean-Canadian Fullstack and Software Developer. <br>
 **Databases**
 
 * Microsoft SQL Server, PostgreSQL, MySQL, SQLite
+
 
 **Technologies**
 
