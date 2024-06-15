@@ -1,12 +1,5 @@
 ### Welcome Here!
-
-Proud Carribean-Canadian Fullstack and Software Developer. <br>
-
-![coding-nyc](https://github.com/Chelseavb314/Chelseavb314/assets/55150598/7b97aabc-3d26-440b-b0ee-e4063469b84d)
-
-[Pictured: Chelsea Bahsler coding in a Boston Tech Workshop (2019).] <br>
-
----
+I'm **Chelsea Bahsler**, a proud Carribean-Canadian Fullstack and Software Developer. <br>
 
 ## Skills
 
