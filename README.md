@@ -1,5 +1,5 @@
 ### Welcome Here!
-I'm **Chelsea Bahsler**, a proud Carribean-Canadian Fullstack and Software Developer. <br>
+I'm **Chelsea Bahsler**, a Carribean-Canadian Fullstack and Software Developer. <br>
 
 ## Skills
 
