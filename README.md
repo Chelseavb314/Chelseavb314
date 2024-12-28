@@ -3,12 +3,6 @@
 I'm a 2024 IT Graduate / Fullstack Developer with a love for finding solutions to creative problems.
 <br> 
 
-## Current Developments
-* Studying for a September 2024 MS Azure Fundamentals exam certification to reinforce current tech knowledge
-* Organzing old project files creating stronger documentation and easier to access projects
-* Attending local tech networking events to build a network and keep up with local tech community achievements
-* Creating a stronger github profile readme portfolio
-
 ## Skills
 [Ruby On Rails - E-Commerce Website](https://github.com/Chelseavb314/RailsEcom)
 A website created using Ruby on Rails that acts as a store front for a wrestling company that sells a variety of merchandise.
@@ -39,6 +33,5 @@ An html/css website with page navigation and css styled elements that serves as 
 - passwordless login, notifications, status updates, registration, authorization, administrative restricted content
 <br>
 
-## Education and Certifications
-⭐ [  June 2024  ] - Studying for Microsoft Azure Fundamentals Exam <br>
+## Education
 ⭐ [  Septemeber 2020 - June 2024  ] Diploma in Business Information Technology | Red River College Polytechnic
