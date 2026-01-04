@@ -3,12 +3,14 @@
 I'm a 2024 IT Graduate / Fullstack Developer with a love for finding solutions to creative problems.
 <br> 
 
-## Skills
+## Projects
 [Ruby On Rails - E-Commerce Website](https://github.com/Chelseavb314/RailsEcom)
 A website created using Ruby on Rails that acts as a store front for a wrestling company that sells a variety of merchandise.
 
 [HTML/CSS - Formatted Website](https://github.com/Chelseavb314/UW_WEB1_FinalProject)
 An html/css website with page navigation and css styled elements that serves as a simple portfolio site.
+
+[Inspired by Pong - Video Game | Youtube Video](https://youtu.be/lORTHJs1MzQ)
 
 ## Languages
 [![Languages](https://skillicons.dev/icons?i=html,css,js,php,cpp,nextjs,nodejs,prisma,rails,react,ruby)](https://skillicons.dev)
